@@ -6,3 +6,8 @@
 # CShrap
 *.csproj.*
 **/Properties/
+
+# Cpp
+**/x64/
+InteractiveTimer/
+*.vcxproj.*
