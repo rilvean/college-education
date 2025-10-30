@@ -1,0 +1,8 @@
+# General
+**.vs/
+**/bin/
+**/obj/
+
+# CShrap
+*.csproj.*
+**/Properties/
